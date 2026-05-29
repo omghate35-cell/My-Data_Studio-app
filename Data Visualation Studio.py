@@ -3,7 +3,7 @@ from ttkbootstrap.constants import *
 from tkinter import filedialog, messagebox
 import tkinter as tk
 import pandas as pd
-import fitz  # PyMuPDF
+import fitz  
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_pdf import PdfPages
